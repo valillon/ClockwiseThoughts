@@ -8,5 +8,5 @@ Color blinks driven by audio signal (tracks are employed to better separate audi
 General movements driven in realtime by OSC (a touchosc template included).<br />
 Sections (three) divide general contextual behavior.<br />
 
-Rafael Redondo (cc) Attribution non-comercial 2013.
+Rafael Redondo CC-BY-NC-SA 2013.
 
